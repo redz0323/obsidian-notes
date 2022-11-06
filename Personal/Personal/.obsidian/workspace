@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "5147096b3aa2e32c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3cef67fe5c0f18",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0ffbbcd32fb237f",
+    "type": "split",
+    "children": [
+      {
+        "id": "444cfe6a47d404df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61effd852af0601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f48a466f40e6628",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ddc785e0c699b2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5794d80eecaf1998",
+    "type": "split",
+    "children": [
+      {
+        "id": "845368cc2318eee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8539f45089cc9ef6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c4eb7d01326cfb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e574de20ba6efc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13e11805c2505b84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2d3cef67fe5c0f18",
+  "lastOpenFiles": [
+    "Object Oriented Programming.md",
+    "Encapsulation.md",
+    "Inheritance.md",
+    "Polymorphism.md",
+    "Abstraction.md"
+  ]
+}
