@@ -1,4 +1,4 @@
-- The implementation of an object having different manifestations/forms.
+- The implementation of an [[Object]] having different manifestations/forms.
 
 ## Method Overriding
 - Method overriding is a run-time polymorphism.
