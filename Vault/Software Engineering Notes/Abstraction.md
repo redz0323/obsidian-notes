@@ -2,3 +2,4 @@
 - Is important when we do any modification in one module than no other module can be affected.
 - Implementation hiding.
 - Provides generalization and hides their implementation.
+- Can be achieved using [[Abstract Class]] or [[Interface]].

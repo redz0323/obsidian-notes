@@ -1,0 +1,3 @@
+- Is a programming structure/syntax that allows the computer to enforce certain properties on an [[Object]] ([[Class]]).
+- Standardizes method definitions and enable enhanced polymorphism.
+- Interfaces are basically classes without code. The can define properties and methods (though not fields directly) without actually storing data or writing an implementation for functions.

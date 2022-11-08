@@ -1,0 +1,2 @@
+- Is a generic [[Class]] (or type of [[Object]]) used as a basis for creating specific objects that conform to its protocol, or the set of operations it supports.
+- Is a superclass that cannot be instantiated and is used to state or define general characteristics.

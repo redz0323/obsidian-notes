@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "15413f104b2319c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ffc4ff18ae5204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e21c002d7dc3eb6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3d57c97ab1d72f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Software Engineering Notes/Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2518fb2efbc914e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3333b04f6aa66b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "873aba18b7b6bb55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f78f221a75e1d65a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c04cf137c0dfe5d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94b87bf614496b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb49a0666fe4ee3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "376980b116b9ccef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vault/Software Engineering Notes/Inheritance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cffe9b6ec7d47d49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vault/Software Engineering Notes/Inheritance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79acc33f07d20558",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "389d676c115c6590",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault/Software Engineering Notes/Inheritance.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d3d57c97ab1d72f8",
+  "lastOpenFiles": [
+    "Vault/Software Engineering Notes/Abstract Class.md",
+    "Vault/Software Engineering Notes/Abstraction.md",
+    "Vault/Software Engineering Notes/Asynchronous Programming.md",
+    "Vault/Software Engineering Notes/Class.md",
+    "Vault/Software Engineering Notes/Interface.md"
+  ]
+}
