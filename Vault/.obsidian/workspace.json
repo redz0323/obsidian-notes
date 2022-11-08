@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "d2d49568f07cd6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "387cf0ea20142014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "592e581ae70d705e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering Notes/Polymorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1e183488e93992f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9530af3eadba0f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573b53b5f280a7f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b29035c244abee27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d86abe8586ecd7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ead4f7a095acce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a763e7da32dd6dc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b7a90a048d8e07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering Notes/Polymorphism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16fb7cf87e46e507",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engineering Notes/Polymorphism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3910fe8d84cb5ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48b6a620f20faf0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engineering Notes/Polymorphism.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "592e581ae70d705e",
+  "lastOpenFiles": [
+    "Software Engineering Notes/Parallelism.md",
+    "Software Engineering Notes/Object Oriented Programming.md",
+    "Software Engineering Notes/Object.md",
+    "Software Engineering Notes/Multithreading.md",
+    "Software Engineering Notes/Inheritance.md",
+    "Software Engineering Notes/Encapsulation.md",
+    "Software Engineering Notes/Concurrency.md",
+    "Software Engineering Notes/Class.md",
+    "Software Engineering Notes/Asynchronous Programming.md",
+    "Software Engineering Notes/Abstraction.md"
+  ]
+}

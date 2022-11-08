@@ -1,4 +1,3 @@
-# Polymorphism
 - The implementation of an object having different manifestations/forms.
 
 ## Method Overriding
