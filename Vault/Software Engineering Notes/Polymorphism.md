@@ -16,7 +16,7 @@
 - More than one method shares the same method name with a different signature in the class
 - It helps to increase the readability of the program.
 - It occurs within the class.
-- Method overloading may or may not require inheritance.
+- Method overloading may or may not require [[Inheritance]].
 - Methods must have the same name and different signatures.
 - The return type can or can not be the same, but we just have to change the parameter.
 - Poor Performance due to compile time polymorphism.
