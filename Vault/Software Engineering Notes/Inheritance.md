@@ -1,2 +1,3 @@
+# Inheritance
 - Organizes [[Class]] in hierarchy and enabling these class to inherit attribute and behavior from class above in the hierarchy.
 - Is a concept that allows us to create new [[Class]] from an existing [[Class]] by inheriting the properties of that [[Class]].

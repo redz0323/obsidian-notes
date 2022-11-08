@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d2d49568f07cd6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5cf455c4d331be3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Encapsulation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1e183488e93992f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9530af3eadba0f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573b53b5f280a7f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b29035c244abee27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d86abe8586ecd7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ead4f7a095acce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a763e7da32dd6dc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b7a90a048d8e07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Encapsulation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16fb7cf87e46e507",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Encapsulation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3910fe8d84cb5ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "48b6a620f20faf0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Encapsulation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5cf455c4d331be3",
+  "lastOpenFiles": [
+    "Personal/Inheritance.md",
+    "Personal/Encapsulation.md",
+    "Personal/Concurrency.md",
+    "Personal/Class.md",
+    "Personal/Asynchronous Programming.md",
+    "Personal/Abstraction.md",
+    "Personal/Multithreading.md",
+    "Personal/Object.md",
+    "Personal/Object Oriented Programming.md",
+    "Personal/Parallelism.md"
+  ]
+}
